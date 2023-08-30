@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  background: rgb(14, 14, 14);
+  color: white;
+}
