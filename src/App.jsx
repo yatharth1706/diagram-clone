@@ -6,7 +6,7 @@ import SolarSystem from "./components/SolarSystem";
 
 function DiagramHomePage() {
   return (
-    <div className="flex flex-col w-full py-4 px-10 relative bg-transparent z-1">
+    <div className="flex flex-col w-full py-4 px-10 relative bg-transparent z-50">
       <div className="flex items-center justify-between">
         <img src={DiagramLogo} alt="Logo" />
         <div className="flex text-gray-300 space-x-12">
